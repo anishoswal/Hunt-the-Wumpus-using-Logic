@@ -3,3 +3,4 @@
 - This is the solution for [**"Project 3: Using Logic to Hunt the Wumpus"**](http://www.sista.arizona.edu/~clayton/courses/ai/projects/wumpus/) licensed by the University of Arizona.
 - Details regarding the files, working of the project, grading and my implementation can be found in the folder **"[wumpus](wumpus)"**
 - There is a description file **"[Project-Description](Project-Description.pdf)"** which explains the tasks to be completed to get the project working.
+- Currently, the project works as intended and I will be improving it as much as I can as and when possible.
